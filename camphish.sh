@@ -7,15 +7,15 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m                   __________                   \e[0m\e[1;77m_______          _________ _______          \e[0m\n"
-printf "\e[1;92m                  |          | \e[0m\e[1;77m(     _______     ________                            /|\e[0m\n"
-printf "\e[1;92m    __________    |          | |\e[0m\e[1;77m    |       \    |  |    \                   ( |\e[0m\n"
-printf "\e[1;92m   |          |   |  ________||\e[0m\e[1;77m     |       |    |  |    |                       |\e[0m\n"
-printf "\e[1;92m   |          |   |  |        |\e[0m\e[1;77m     |       |    |  |____|                    |\e[0m\n"
-printf "\e[1;92m   |          |   |  |        |\e[0m\e[1;77m     |_______|    |  | \ \                         |\e[0m\n"
-printf "\e[1;92m   |          |   |  |        |\e[0m\e[1;77m     |       |    |  |  \ \                      |\e[0m\n"
-printf "\e[1;92m   |          |   |  |        |\e[0m\e[1;77m     |_______|    |__|   \_\                       |\e[0m\n"
-printf "\e[1;92m   |__________|   |__|        \|\e[0m\e[1;77m|/_ - _ - _   |/     \|\_______/\_______)|/     \|\e[0m\n"
+printf "\e[1;92m                   __________                   e[0m\e[1;77m         e[0m\n"
+printf "\e[1;92m                  |          |  e[0m\e[1;77m(     _______     ________                            e[0m\n"
+printf "\e[1;92m    __________    |          |   e[0m\e[1;77m    |       \    |  |    \                   e[0m\n"
+printf "\e[1;92m   |          |   |  ________|  e[0m\e[1;77m     |       |    |  |    |                       e[0m\n"
+printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |       |    |  |____|                    e[0m\n"
+printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |       |    | \ \                         |\e[0m\n"
+printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |       |    |  |\ \                      e[0m\n"
+printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |_______|    |__| \_\                       e[0m\n"
+printf "\e[1;92m   |__________|   |__|          e[0m\e[1;77m    e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
 printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
 
