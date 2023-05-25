@@ -17,7 +17,7 @@ printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |       |    | 
 printf "\e[1;92m   |          |   |  |          e[0m\e[1;77m     |_______|    |__| \_\                       e[0m\n"
 printf "\e[1;92m   |__________|   |__|          e[0m\e[1;77m    e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;77m just 5brh | just 3nad \e[0m \n"
 
 
 printf "\n"
